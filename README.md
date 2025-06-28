@@ -6,7 +6,7 @@
 
 This caused a **feedback loop**.
 
-[Grounded Vindaloop](https://en.wikipedia.org/wiki/Grounded_Vindaloop) | Season 18, Episode 7 | 1807 | Curve383187 (BB)
+[Grounded Vindaloop](https://en.wikipedia.org/wiki/Grounded_Vindaloop) | Season 18, Episode 7 | 1807 | Curve383187 (BB) | 254 (ASCII - Thorn)
 
 ### ETH Tx ✔️
 
